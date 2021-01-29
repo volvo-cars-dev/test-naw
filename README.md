@@ -10,6 +10,10 @@ In this guildeline you will build and run self-hosted Docker agents on Azure Con
 You will find base images in the repo [de-ado-agent-blueprints](https://volvocargroup1.visualstudio.com/Volvo%20Cars%20Inner%20Source/_git/de-ado-agent-blueprints). Use those images as a starting point for your own agents by cloning that repo.
 
 Using Docker Desktop and ACR, you can customize the images to your requirements and test the agents in an agent pool in your Azure DevOps project. Once tested, push the image to your repository (ACR) and spin up the agent in an Azure Containe.
+Using Docker Desktop and ACR, you can customize the images to your requirements and test the agents in an agent pool in your Azure DevOps project. Once tested, push the image to your repository (ACR) and spin up the agent in an Azure Containe.
+
+Using Docker Desktop and ACR, you can customize the images to your requirements and test the agents in an agent pool in your Azure DevOps project. Once tested, push the image to your repository (ACR) and spin up the agent in an Azure Containe.
+Using Docker Desktop and ACR, you can customize the images to your requirements and test the agents in an agent pool in your Azure DevOps project. Once tested, push the image to your repository (ACR) and spin up the agent in an Azure Containe.
 ## Workflow
 ![image.png](/.attachments/image-dd38bc61-330d-4dc6-9b15-4e1632037964.png
 ##
